@@ -23,6 +23,8 @@ MainWindow::MainWindow(QWidget *parent) :
             this, SLOT(turnOffTres()));
     connect(ui->intruderButton, SIGNAL(clicked()),
             this, SLOT(addIntruder()));
+    connect(ui->removeIntruderButton, SIGNAL(clicked()),
+            this, SLOT(removeIntruder()));
     drawAll();
 }
 
