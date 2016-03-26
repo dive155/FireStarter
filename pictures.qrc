@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sprink1.png</file>
+        <file>sprink2.png</file>
+        <file>fire1.png</file>
+        <file>fire2.png</file>
+        <file>house.png</file>
+        <file>intruder1.png</file>
+        <file>intruder2.png</file>
+        <file>butOff.png</file>
+        <file>butOn.png</file>
+        <file>gsm.png</file>
+    </qresource>
+</RCC>
